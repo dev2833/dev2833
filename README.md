@@ -20,7 +20,7 @@ I'm a full stack web/mobile developer. I am good in full stack languages React/A
 
 My goal is to become a successful person and make my family proud of me.
 
-## 📫 Let's connect!
+<!-- ## 📫 Let's connect! -->
 
-## 📄 My Articles
+<!-- ## 📄 My Articles -->
 
