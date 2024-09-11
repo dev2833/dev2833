@@ -8,13 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhiidrozd88&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/serhiidrozd88)
 
 
-- 📚 Stack - React, Vue.js, Angular, JavaScript, CSS3, HTML5, Node.js, .Net, Mongo and so on.
+- 📚 Stack - Swift, Java, Kotlin, React, Vue.js and so on.
 - 🛠 Tools -  npm, Babel, Webpack, Slack, GitHub/Gitlab
 - ☕ Open to anything and everything!
 
 ## 💬 About Me
 
-I'm a full stack web/mobile developer. I am good in full stack languages React/Angular and Vue.js and very much interested in Node.js/.Net/Python and Laravel.
+I'm a full stack web/mobile developer. I am good in mobile development languages Swift, Kotlin and very much interested in Java and Javascript.
 
 ## 👆 My goal
 
