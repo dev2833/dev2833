@@ -1,11 +1,11 @@
-<!-- ![Banner Image](https://github.com/serhiidrozd88/serhiidrozd88/blob/main/Images/banner2.png) -->
-![Banner Image](https://github.com/serhiidrozd88/serhiidrozd88/blob/master/Images/banner2.png)
+<!-- ![Banner Image](https://github.com/dev2833/dev2833/blob/main/Images/banner2.png) -->
+<!-- ![Banner Image](https://github.com/dev2833/dev2833/blob/master/Images/banner2.png) -->
 
 ## Hello World 👋🌎
 
-<!-- [![Dev's github stats](https://github-readme-stats.vercel.app/api?username=serhiidrozd88&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/serhiidrozd88) -->
+<!-- [![Dev's github stats](https://github-readme-stats.vercel.app/api?username=dev2833&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/dev2833) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhiidrozd88&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/serhiidrozd88)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2833&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/dev2833)
 
 
 - 📚 Stack - Swift, Java, Kotlin, React, Vue.js and so on.
