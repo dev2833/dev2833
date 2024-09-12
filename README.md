@@ -5,7 +5,7 @@
 
 <!-- [![Dev's github stats](https://github-readme-stats.vercel.app/api?username=dev2833&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/dev2833) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2833&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/dev2833)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2833&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/dev2833) -->
 
 
 - 📚 Stack - Swift, Java, Kotlin, React, Vue.js and so on.
